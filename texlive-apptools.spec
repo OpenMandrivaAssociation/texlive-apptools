@@ -1,6 +1,6 @@
 Name:		texlive-apptools
 Version:	28400
-Release:	1
+Release:	2
 Summary:	Tools for customising appendices
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apptools
