@@ -3,7 +3,7 @@ Version:	28400
 Release:	2
 Summary:	Tools for customising appendices
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apptools
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/apptools
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apptools.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apptools.doc.r%{version}.tar.xz
